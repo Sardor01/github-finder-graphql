@@ -1,5 +1,6 @@
 {
   "private": true,
+  "packageManager": "pnpm@7.30.3",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
